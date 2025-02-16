@@ -1,4 +1,4 @@
-// Copyright SuperSupremeGames
+// Copyright
 
 #pragma once
 
