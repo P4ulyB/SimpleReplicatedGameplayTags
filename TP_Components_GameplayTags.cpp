@@ -1,4 +1,4 @@
-// Copyright SuperSupremeGames
+// Copyright
 
 
 #include "Components/TP_Components_GameplayTags.h"
