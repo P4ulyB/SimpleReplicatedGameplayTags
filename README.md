@@ -1,5 +1,5 @@
 UGameplayTagComponent System Documentation
-1. Introduction
+1. Introduction: 
 Lets be clear before we proceed, this code isn't groundbreaking by any means, it's created as a means for convenience so you dont have to do this yourself. The UGameplayTagComponent system is a modular Unreal Engine component designed for managing and replicating gameplay tags in a multiplayer environment. It allows clients to query, add, and remove gameplay tags from actors with this component, while ensuring server authority over modifications.
 2. Features
 - **Replication:** Maintains a replicated gameplay tag container across server and clients.
